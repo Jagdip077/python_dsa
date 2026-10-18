@@ -1,0 +1,196 @@
+PYTHON DSA - LEVEL 1: BASICS
+================================
+
+Instructions:
+- Solve each problem using Python.
+- Take input from the user wherever required.
+- Print the result.
+- Try to solve the problems without looking at solutions.
+- Focus on understanding the logic, not just getting the output.
+
+----------------------------------------
+PROBLEM 1: PRINT YOUR NAME
+----------------------------------------
+
+Write a Python program that prints your name, age, and favorite programming language.
+
+Example Output:
+Name: Rahul
+Age: 18
+Favorite Language: Python
+
+
+----------------------------------------
+PROBLEM 2: ADD TWO NUMBERS
+----------------------------------------
+
+Write a Python program that takes two integers as input and prints their sum.
+
+Example Input:
+10
+20
+
+Example Output:
+30
+
+
+----------------------------------------
+PROBLEM 3: SWAP TWO NUMBERS
+----------------------------------------
+
+Write a Python program that takes two numbers and swaps their values.
+
+Example Input:
+a = 5
+b = 10
+
+Example Output:
+a = 10
+b = 5
+
+Challenge:
+Try swapping the numbers without using a third variable.
+
+
+----------------------------------------
+PROBLEM 4: EVEN OR ODD
+----------------------------------------
+
+Write a Python program that takes an integer as input and determines whether it is even or odd.
+
+Example Input:
+7
+
+Example Output:
+Odd
+
+
+----------------------------------------
+PROBLEM 5: LARGEST OF TWO NUMBERS
+----------------------------------------
+
+Write a Python program that takes two integers as input and prints the larger number.
+
+Example Input:
+15
+25
+
+Example Output:
+25
+
+Challenge:
+If both numbers are equal, print "Both numbers are equal".
+
+
+----------------------------------------
+PROBLEM 6: POSITIVE, NEGATIVE, OR ZERO
+----------------------------------------
+
+Write a Python program that takes an integer as input and checks whether it is positive, negative, or zero.
+
+Example Input:
+-8
+
+Example Output:
+Negative
+
+
+----------------------------------------
+PROBLEM 7: MULTIPLICATION TABLE
+----------------------------------------
+
+Write a Python program that takes an integer as input and prints its multiplication table from 1 to 10.
+
+Example Input:
+5
+
+Example Output:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+
+
+----------------------------------------
+PROBLEM 8: SUM OF FIRST N NATURAL NUMBERS
+----------------------------------------
+
+Write a Python program that takes a positive integer N as input and calculates the sum of all natural numbers from 1 to N.
+
+Example Input:
+5
+
+Example Output:
+15
+
+Explanation:
+1 + 2 + 3 + 4 + 5 = 15
+
+Challenge:
+First solve it using a loop. Later, try solving it using a mathematical formula.
+
+
+----------------------------------------
+PROBLEM 9: COUNT DIGITS IN A NUMBER
+----------------------------------------
+
+Write a Python program that takes an integer as input and counts how many digits it contains.
+
+Example Input:
+5832
+
+Example Output:
+4
+
+Example Input:
+-729
+
+Example Output:
+3
+
+Note:
+The minus sign is not counted as a digit.
+
+
+----------------------------------------
+PROBLEM 10: REVERSE A NUMBER
+----------------------------------------
+
+Write a Python program that takes an integer as input and prints its digits in reverse order.
+
+Example Input:
+12345
+
+Example Output:
+54321
+
+Example Input:
+907
+
+Example Output:
+709
+
+Challenge:
+Try solving this problem using a while loop without converting the number into a string.
+
+
+========================================
+END OF LEVEL 1
+========================================
+
+Topics Practiced:
+1. Variables and print()
+2. Input and type conversion
+3. Arithmetic operators
+4. Swapping variables
+5. Conditional statements (if/else)
+6. Loops (for and while)
+7. Modulo operator (%)
+8. Integer division (//)
+9. Basic problem-solving logic
