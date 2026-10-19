@@ -1,4 +1,7 @@
-a=5
-b=10
-fs= "a="
-print(fs, b,"b=",a)
+a =input("Enter your first number")
+b =input("Enter your second number")
+
+if a > b :
+    print (a)
+else :
+    print (b)   
